@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.openwormmc.EngineTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2026-11-12T22:43:29" hostname="COMPUTADOR" time="72.259">
+  <properties/>
+  <testcase name="t06b_timestepConvergence" classname="com.openwormmc.EngineTest" time="5.455"/>
+  <testcase name="t09_t10_motorNeuronsAndMusclesRespond" classname="com.openwormmc.EngineTest" time="3.623"/>
+  <testcase name="t04_parametersLoaded" classname="com.openwormmc.EngineTest" time="0.002"/>
+  <testcase name="t12_shutdownClosesBrain" classname="com.openwormmc.EngineTest" time="0.414"/>
+  <testcase name="t03_connectionIdentifiersResolveAndAreDirected" classname="com.openwormmc.EngineTest" time="0.009"/>
+  <testcase name="t14_sensorNeuronsExistInModel" classname="com.openwormmc.EngineTest" time="0.001"/>
+  <testcase name="t11b_brainDrivenBodyBendsAndTurnsFromNeuralOutputOnly" classname="com.openwormmc.EngineTest" time="27.66"/>
+  <testcase name="t15_integrationFoodScenario" classname="com.openwormmc.EngineTest" time="20.953"/>
+  <testcase name="t02_neuronCountIs302AndMusclesAre95" classname="com.openwormmc.EngineTest" time="0.001"/>
+  <testcase name="t07_t08_stimulusChangesActivity" classname="com.openwormmc.EngineTest" time="1.707"/>
+  <testcase name="t01_modelLoads" classname="com.openwormmc.EngineTest" time="0.001"/>
+  <testcase name="t13_determinism" classname="com.openwormmc.EngineTest" time="7.394"/>
+  <testcase name="t11_physicsMovesBodyAndReversesWithWaveDirection" classname="com.openwormmc.EngineTest" time="0.025"/>
+  <testcase name="t05_t06_numericalStabilityNoNaN" classname="com.openwormmc.EngineTest" time="5.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

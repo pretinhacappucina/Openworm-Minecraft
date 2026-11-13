@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "openwormmc",
+  "version": "1.0.0",
+  "name": "OpenWorm Minecraft",
+  "description": "C. elegans with a virtual brain: c302 Level-C1-style network (Cook et al. 2019 connectome) driving muscles and body.",
+  "authors": ["OpenWorm Minecraft contributors"],
+  "license": "MIT (code); data: see ATTRIBUTION.md",
+  "environment": "*",
+  "entrypoints": { "main": ["com.openwormmc.OpenWormMod"], "client": ["com.openwormmc.client.OpenWormClient"] },
+  "depends": { "fabricloader": ">=0.14.21", "minecraft": "~1.20.1", "java": ">=17", "fabric-api": "*" }
+}
